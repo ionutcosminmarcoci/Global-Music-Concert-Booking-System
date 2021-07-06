@@ -6,4 +6,4 @@ Separated from the server connection class method , the other classes have their
 
 
 
-![alt text](https://github.com/ionutcosminmarcoci/Global-Music-Concert-Booking-System/blob/main/Picture1.jpeg?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Global-Music-Concert-Booking-System/blob/main/Picture1.jpg?raw=true)
